@@ -37,3 +37,40 @@ The goal of this repo is **not model performance**, but **deep understanding of 
 ---
 
 ## How This Repo Is Structured
+
+
+
+Each notebook includes:
+- Clear section headers
+- Short explanations before code
+- Focus on *why* something is done, not just *how*
+
+---
+
+## Why I Built This
+
+Before working on high-level frameworks and large models, I wanted to:
+- Understand tensor behavior and memory
+- Gain confidence in debugging shape, dtype, and gradient issues
+- Write and reason about training logic myself
+
+This foundation helps me move faster and debug better in real-world deep learning projects.
+
+---
+
+## Tools & Stack
+- PyTorch
+- Python
+- Google Colab (GPU-enabled)
+- Git & GitHub
+
+---
+
+## Next Steps
+- Implement autograd examples in detail
+- Write a training loop from scratch (no `Trainer` abstractions)
+- Build a simple regression model to connect fundamentals to practice
+
+---
+
+> This repository reflects **learning depth and clarity**, not tutorial copying.

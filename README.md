@@ -1,5 +1,8 @@
 # PyTorch Foundations
 
+“Building strong PyTorch foundations before moving into GenAI systems.”
+
+
 This repository documents my hands-on learning of PyTorch fundamentals, with a focus on building strong intuition before moving to larger deep learning and GenAI models.
 
 The goal of this repo is **not model performance**, but **deep understanding of how PyTorch works under the hood**.
